@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("Hello Git  test");
         System.out.println("Hello Git  test");
         System.out.println("Hello Git  push");
+        System.out.println("Hello Git  pull !!!!");
     }
 }
